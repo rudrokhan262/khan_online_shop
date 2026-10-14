@@ -1,0 +1,32 @@
+class AppRoutes {
+  static const String splash = '/';
+  static const String login = '/login';
+  static const String registration = '/registration';
+  static const String home = '/home';
+  static const String search = '/search';
+  static const String categories = '/categories';
+  static const String productDetails = '/product-details';
+  static const String cart = '/cart';
+  static const String checkout = '/checkout';
+  static const String payment = '/payment';
+  static const String orderConfirmation = '/order-confirmation';
+  static const String orderTracking = '/order-tracking';
+  static const String orderHistory = '/order-history';
+  static const String account = '/account';
+  static const String myList = '/my-list';
+  static const String sellerDashboard = '/seller-dashboard';
+  static const String submitProduct = '/submit-product';
+  static const String listingStatus = '/listing-status';
+  static const String chat = '/chat';
+  static const String chatConversationList = '/chat-conversation-list';
+  static const String notifications = '/notifications';
+  static const String quran = '/quran';
+  static const String prayer = '/prayer';
+  static const String helpSupport = '/help-support';
+  static const String policies = '/policies';
+  static const String adminDashboard = '/admin-dashboard';
+  static const String adminListingReview = '/admin-listing-review';
+  static const String adminUserManagement = '/admin-user-management';
+  static const String adminOrderManagement = '/admin-order-management';
+  static const String adminPaymentManagement = '/admin-payment-management';
+}
